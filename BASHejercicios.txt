@@ -1,0 +1,59 @@
+BASH
+
+EJERCICIOS:
+Determina cual es el directorio de tu usuario
+pwd = print working directory
+pwd prints working directory (prints to screen, ie displays the full path, or your location on the filesystem)
+
+Cuantos archivos contiene
+ls lists contents of current directory
+
+Utilizar un comando que muestre la fecha de un archivo
+date -d
+print formatted date
+
+Mostrar los tamaños de los archivos del directorio actual en
+
+KB
+
+MB
+
+GB
+
+ls -sh / ls -s
+
+Guardar la salida del comando anterior en un archivo
+
+Mostrar los archivos de la carpeta de tu usuario con permisos
+ls -l main.sh
+
+Crea una carpeta nueva en tu directorio de trabajo y entra en ella
+
+Crea un archivo que contenga los procesos que está ejecutando tu sistema actualmente
+
+Crea un archivo “mis_archivos.txt” que contenga un listado de los archivos de tu carpeta home o tu carpeta de
+trabajo.
+
+Finalmente: exporta el contenido de tu terminal en un archivo txt y entrégalo en el classroom.
+
+
+EJERCICIOS 2:
+
+Mirar en el manual (o Google) como ejecutar el comando top pero ordenando los procesos por MEM,
+TIME o STATE
+
+Mirar los manuales de cat, more y less e indicar las diferencias.
+
+Crea un archivo “archivos.txt” con los pesos de los archivos del directorio actual.
+
+Muestra en pantalla el contenido del archivo anterior.
+
+Crea un archivo “info_txt.txt” que contenga toda la información del archivo anterior
+
+Borra el archivo anterior.
+rm archivo.txt
+
+Crea un manual en txt para los comandos: ls, kill.
+
+Busca información sobre el comando “cp” y utilizalo para hacer una copia de un archivo. Luego borra el
+original.
